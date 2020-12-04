@@ -11,9 +11,9 @@ The website is a static web page. HTML and CSS was used only.
 ## Usage
 
 There are several screenshots that was taken. Those images are available in the following link.
-[Website Screenshot 1](assets/images/Screenshots/website-screenshot-1.PNG)
-[Website Screenshot 2](assets/images/Screenshots/website-screenshot-2.PNG)
-[Website Screenshot 3](assets/images/Screenshots/website-screenshot-3.PNG)
+![Website Screenshot 1](assets/images/Screenshots/website-screenshot-1.PNG)
+![Website Screenshot 2](assets/images/Screenshots/website-screenshot-2.PNG)
+![Website Screenshot 3](assets/images/Screenshots/website-screenshot-3.PNG)
 
 **Note**: This a link to the actual website: [Horiseon Official Website](https://alsharifnahas.github.io/Horiseon/.)
 
